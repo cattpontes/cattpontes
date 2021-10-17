@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cattpontes
+- 👀 I’m interested in machine learning and big data.
+- 🌱 I’m currently in a Data Science bachelor.
